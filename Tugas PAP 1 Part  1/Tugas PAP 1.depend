@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1646626317 source:c:\users\lenovo\documents\tugas pap 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1646629804 c:\users\lenovo\documents\tugas pap 1\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1646707015 source:c:\users\lenovo\documents\semester 2 2022\tugas pap 1 part  1\main.c
+	<stdio.h>
+	<stdlib.h>
+
